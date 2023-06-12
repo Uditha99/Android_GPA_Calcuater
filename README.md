@@ -1,4 +1,6 @@
-# Android_GPA_Calcuater![Screenshot 2023-06-12 084548](https://github.com/Uditha99/Android_GPA_Calcuater/assets/109640405/16fa74d7-4c5a-47f8-a8d4-67760661680d)
+# Android_GPA_Calcuater!
+
+[Screenshot 2023-06-12 084548](https://github.com/Uditha99/Android_GPA_Calcuater/assets/109640405/16fa74d7-4c5a-47f8-a8d4-67760661680d)
 ![Screenshot 2023-06-12 084629](https://github.com/Uditha99/Android_GPA_Calcuater/assets/109640405/772045a1-8471-43c8-9b8f-84ff02df7c39)
 ![Screenshot 2023-06-12 084756](https://github.com/Uditha99/Android_GPA_Calcuater/assets/109640405/1b175c8a-f6b7-49ef-9b72-d93551688c09)
 ![Screenshot 2023-06-12 084846](https://github.com/Uditha99/Android_GPA_Calcuater/assets/109640405/22821eb1-0f64-4608-a385-64c23fb682e2)
