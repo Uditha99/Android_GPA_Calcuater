@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">project1.0.0</string>
+
+    <string name="title_activity_scrolling">ScrollingActivity</string>
+    <string name="app_nam">Path</string>
+    <string name="path1"><font size="20">Path 01</font>\n<font size="10">AMAT,PHYS,PMAT</font></string>
+    <string name="path2"><font size="20">Path 02</font>\n<font size="10">COSH,PHYS,PMAT</font></string>
+    <string name="path3"><font size="20">Path 03</font>\n<font size="10">ELEC,PHYS,PMAT</font></string>
+    <string name="path4"><font size="20">Path 04</font>\n<font size="10">AMAT,COSH,PMAT</font></string>
+    <string name="path5"><font size="20">Path 05</font>\n<font size="10">COSH,PMAT,STAT</font></string>
+    <string name="path6"><font size="20">Path 06</font>\n<font size="10">CHEM,COSH,PMAT</font></string>
+    <string name="path7"><font size="20">Path 07</font>\n<font size="10">AMAT,CHEM,PMAT</font></string>
+    <string name="path8"><font size="20">Path 08</font>\n<font size="10">COST,ELEC,PHYS</font></string>
+    <string name="path9"><font size="20">Path 09</font>\n<font size="10">AMAT,PMAT,STAT</font></string>
+    <string name="path10"><font size="20">Path 10</font>\n<font size="10">CHEM,COST,PMAT</font></string>
+
+    <string name="action_settings">Settings</string>
+</resources>

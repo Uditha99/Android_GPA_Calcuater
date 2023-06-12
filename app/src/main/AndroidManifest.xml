@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Project101"
+        tools:targetApi="31">
+        <activity
+            android:name=".GenerateActivity"
+            android:exported="false" />
+        <activity
+            android:name=".MActivity"
+            android:exported="false" />
+        <activity
+            android:name="pe.PEYear03Activity"
+            android:exported="false" />
+        <activity
+            android:name="pe.PEYear02Activity"
+            android:exported="false" />
+        <activity
+            android:name="pe.PEYear01Activity"
+            android:exported="false" />
+        <activity
+            android:name=".RegisterActivity"
+            android:exported="false" />
+        <activity
+            android:name="physical.path01.PSYear1Path1Activity"
+            android:exported="false" />
+        <activity
+            android:name="physical.path02.PSYear1Path2Activity"
+            android:exported="false" />
+        <activity
+            android:name="physical.path02.PSYear2Path2Activity"
+            android:exported="false" />
+        <activity
+            android:name=".DepartmentSelectActivity"
+            android:exported="false" />
+        <activity
+            android:name=".PhysicalPathActivity"
+            android:exported="false" />
+        <activity
+            android:name=".LoginActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
